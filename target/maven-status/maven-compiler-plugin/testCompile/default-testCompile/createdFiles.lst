@@ -1,0 +1,8 @@
+com\student\specs\SpecificationFactory.class
+com\student\tests\TestBase.class
+com\student\requests\RestClient.class
+com\student\tests\DemoCrudTest.class
+com\student\util\PropertyReader.class
+com\student\requests\DemoRequestFactory.class
+com\student\tests\CrudTest.class
+com\student\requests\RequestFactory.class
